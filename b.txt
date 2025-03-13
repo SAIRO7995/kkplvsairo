@@ -3,5 +3,10 @@ dont know antthing
 <<<<<<< HEAD
 
 learnign barnching
+<<<<<<< HEAD
 =======
 >>>>>>> 95e310d (copy from a to b)
+=======
+
+kjduhuduehne
+>>>>>>> sairohith
