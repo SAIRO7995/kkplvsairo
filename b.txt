@@ -1,4 +1,7 @@
 learning git
 dont know antthing
+<<<<<<< HEAD
 
 learnign barnching
+=======
+>>>>>>> 95e310d (copy from a to b)
